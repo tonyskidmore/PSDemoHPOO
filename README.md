@@ -1,6 +1,8 @@
 # PowerShell Cross Platform Demo
 
-This script is an example demo script that uses Invoke-RestMethod to trigger HPOO workflow.  It can be run in eiether a Windows or Linux environment!
+This script is an example demo script that uses Invoke-RestMethod to trigger HPOO workflow.  It can be run in eiether a Windows or Linux environment!  
+
+Disclaimer: It is a quick and dirty script that does not represent best practice for script development.
 
 In the demo the script was ran on a Windows 10 machine running PowerShell 5.1.  
 For the Linux demo it was ran on a CentOS 7.4 system.
